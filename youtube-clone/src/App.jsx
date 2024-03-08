@@ -6,7 +6,7 @@ import Video from './Pages/Video/Video'
 
 const App = () => {
 
-const[sidebar,setSidebar] = useState(true);
+const [sidebar,setSidebar] = useState(true);
 
   return (
     <div>
